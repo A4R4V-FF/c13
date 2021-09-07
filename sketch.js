@@ -55,14 +55,14 @@ function draw() {
       redBalloon();
      
     }
-    else if(selct_balloon == 2) {
+    else if(select_balloon == 2) {
       greenBalloon();
 
     }
-    else if(selct_balloon == 3) {
+    else if(select_balloon == 3) {
       blueBalloon();
   }
-  else if(selct_balloon == 4) {
+  else if(select_balloon == 4) {
     pinkBalloon();
   }
 }
